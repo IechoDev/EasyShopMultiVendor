@@ -6,4 +6,4 @@ export const overrideStyle = {
     justifyContent : 'center',
     alignItems : 'center'
 }
-export const socket = io('http://localhost:5000')
+export const socket = io('http://159.223.89.250:5000')
