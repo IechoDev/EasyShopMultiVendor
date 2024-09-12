@@ -9,7 +9,7 @@ import toast from 'react-hot-toast';
 import io from 'socket.io-client'
 import {FaList} from 'react-icons/fa'
 
-const socket = io('http://localhost:5000')
+const socket = io('http://159.223.89.250:5000')
 
 const Chat = () => {
 
